@@ -1,0 +1,14 @@
+flask
+gunicorn
+line-bot-sdk
+python-dotenv
+smolagents[litellm]
+openai
+pymongo
+schedule
+requests
+beautifulsoup4
+cloudscraper
+google-api-python-client>=2.137.0
+google-auth-oauthlib>=1.2.0
+python-dateutil
