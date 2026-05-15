@@ -176,7 +176,6 @@ RTX 4070 評價
 | [API.md](docs/API.md) | API 文件 |
 
 ## 📄 授權
-世新大學李柏諺
 
 MIT License
 
