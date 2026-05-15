@@ -180,7 +180,7 @@ RTX 4070 評價
 MIT License
 
 ## 🤝 貢獻
-世新大學
+
 歡迎提交 Issue 和 Pull Request！
 
 ## 📞 聯絡
